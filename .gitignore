@@ -1,0 +1,17 @@
+.idea/
+node_modules/
+*.pyc
+*.swp
+*.swn
+*.swo
+*.iml
+build/
+build-library/
+.*vimrc
+.sass-cache/
+backstop_data/
+backstop.json
+flow-coverage
+tmp
+src/integration
+db
