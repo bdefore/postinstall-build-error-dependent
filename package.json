@@ -4,7 +4,7 @@
   "scripts": {
   },
   "dependencies": {
-    "@foo/bar": "github:bdefore/postinstall-build-error-library"
+    "bar": "github:bdefore/postinstall-build-error-library#no-scope"
   },
   "devDependencies": {
     "react": "^15.6.1"
