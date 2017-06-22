@@ -4,7 +4,7 @@
   "scripts": {
   },
   "dependencies": {
-    "@foo/bar": "github:bdefore/postinstall-build-error-library#address-comments"
+    "@foo/bar": "github:bdefore/postinstall-build-error-library"
   },
   "devDependencies": {
     "react": "^15.6.1"
