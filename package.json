@@ -1,7 +1,10 @@
 {
   "name": "dependent-project",
-  "version": "1.0.0",
-  "scripts": {
+  "version": "1.0.1",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdefore/postinstall-build-error-dependent"
   },
   "dependencies": {
     "@foo/bar": "github:bdefore/postinstall-build-error-library"
